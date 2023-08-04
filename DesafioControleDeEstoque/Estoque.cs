@@ -62,7 +62,7 @@ namespace ControleDeEstoque
 
             Console.WriteLine("Produto encontrado:");
             Console.WriteLine(produte);
-            Console.WriteLine("Deseja comprar este produto? (S/N)");
+            Console.WriteLine("Deseja comprar este produto? S/N");
             string resposta = Console.ReadLine();
 
             if (resposta.ToUpper() == "S")

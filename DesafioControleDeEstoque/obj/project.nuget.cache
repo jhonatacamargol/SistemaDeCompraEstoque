@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gAL8lx+weXmLi4QWIAaK6+0K9GL2act/jqsNP08mRl/AElf60hjb17fFcwvb+XcO145qHKhQxeSSVPA3p4hDyg==",
+  "dgSpecHash": "Ni2h62SD8yxmGaEnrBrP7A0bQdL4JbdqirBMozQ0+3IVsB3xtURJB80iGEjnNZ4ibVpL6ki4NeBZENpyFT9ANw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\DesafioControleDeEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj",
+  "projectFilePath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\SistemaDeCompraEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

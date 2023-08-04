@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\DesafioControleDeEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj": {}
+    "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\SistemaDeCompraEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\DesafioControleDeEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj": {
+    "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\SistemaDeCompraEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\DesafioControleDeEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\SistemaDeCompraEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj",
         "projectName": "ControleDeEstoque",
-        "projectPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\DesafioControleDeEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj",
+        "projectPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\SistemaDeCompraEstoque\\DesafioControleDeEstoque\\ControleDeEstoque.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\DesafioControleDeEstoque\\DesafioControleDeEstoque\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\SistemaDeCompraEstoque\\DesafioControleDeEstoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",
